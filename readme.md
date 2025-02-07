@@ -1,7 +1,6 @@
 # 🌈 **図書館DX** 🌈
 
-![Banner Image](https://tyoudoii-illust.com/wp-content/uploads/2024/07/oksign_businessman_color-300x282.png)![Banner Image](https://tyoudoii-illust.com/wp-content/uploads/2024/07/oksign_businessman_color-300x282.png)![Banner Image](https://tyoudoii-illust.com/wp-content/uploads/2024/07/oksign_businessman_color-300x282.png)
-
+![Banner Image](https://tyoudoii-illust.com/wp-content/uploads/2024/07/oksign_businessman_color-300x282.png)![Banner Image](https://tyoudoii-illust.com/wp-content/uploads/2024/07/oksign_businessman_color-300x282.png)!
 # 図書館DX
 
 
@@ -87,4 +86,4 @@ colcon build
 cd ..
 source /install/setup.bash
 ```
-![Banner Image](https://tyoudoii-illust.com/wp-content/uploads/2024/07/oksign_businessman_color-300x282.png)![Banner Image](https://tyoudoii-illust.com/wp-content/uploads/2024/07/oksign_businessman_color-300x282.png)![Banner Image](https://tyoudoii-illust.com/wp-content/uploads/2024/07/oksign_businessman_color-300x282.png)
+![Banner Image](https://tyoudoii-illust.com/wp-content/uploads/2024/07/oksign_businessman_color-300x282.png)![Banner Image](https://tyoudoii-illust.com/wp-content/uploads/2024/07/oksign_businessman_color-300x282.png)!

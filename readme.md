@@ -25,7 +25,7 @@
 イメージとしては、物体検出で本の位置が特定された後、その位置に基づいて画像を切り取り、タイトルを抽出して検出画像に表示する形です。以下はその例となります：
 
 ---
-
+![Banner Image](https://tyoudoii-illust.com/wp-content/uploads/2024/07/oksign_businesswoman_color-282x300.png)　　　　　　　　　　　　　　![Banner Image](https://tyoudoii-illust.com/wp-content/uploads/2024/07/oksign_businesswoman_color-282x300.png)
 ## **実装方法**
 
 1. **物体検出後の座標取得**  
@@ -79,7 +79,7 @@ easy ocrの導入方法はteams内の手順書に記入されています<br>
 
 
 ---
-![Banner Image](https://tyoudoii-illust.com/wp-content/uploads/2024/07/oksign_businesswoman_color-282x300.png)　　　　　　　　　　　　　　![Banner Image](https://tyoudoii-illust.com/wp-content/uploads/2024/07/oksign_businesswoman_color-282x300.png)
+
 ## **セットアップ手順**
 
 以下のコマンドを使用して、プロジェクトをセットアップします。

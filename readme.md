@@ -25,7 +25,7 @@
 イメージとしては、物体検出で本の位置が特定された後、その位置に基づいて画像を切り取り、タイトルを抽出して検出画像に表示する形です。以下はその例となります：
 
 ---
-![Banner Image](https://asset.watch.impress.co.jp/img/wf/docs/1251/932/60fpsparrot.gif)　　　　　　　　　　　　　　![Banner Image](https://asset.watch.impress.co.jp/img/wf/docs/1251/932/60fpsparrot.gif)
+![Banner Image](https://asset.watch.impress.co.jp/img/wf/docs/1251/932/60fpsparrot.gif)![Banner Image](https://asset.watch.impress.co.jp/img/wf/docs/1251/932/60fpsparrot.gif)![Banner Image](https://asset.watch.impress.co.jp/img/wf/docs/1251/932/60fpsparrot.gif)![Banner Image](https://asset.watch.impress.co.jp/img/wf/docs/1251/932/60fpsparrot.gif)![Banner Image](https://asset.watch.impress.co.jp/img/wf/docs/1251/932/60fpsparrot.gif)![Banner Image](https://asset.watch.impress.co.jp/img/wf/docs/1251/932/60fpsparrot.gif)![Banner Image](https://asset.watch.impress.co.jp/img/wf/docs/1251/932/60fpsparrot.gif)![Banner Image](https://asset.watch.impress.co.jp/img/wf/docs/1251/932/60fpsparrot.gif)![Banner Image](https://asset.watch.impress.co.jp/img/wf/docs/1251/932/60fpsparrot.gif)![Banner Image](https://asset.watch.impress.co.jp/img/wf/docs/1251/932/60fpsparrot.gif)
 ## **実装方法**
 
 1. **物体検出後の座標取得**  

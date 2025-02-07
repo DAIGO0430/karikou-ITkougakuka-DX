@@ -79,7 +79,7 @@ easy ocrの導入方法はteams内の手順書に記入されています<br>
 
 
 ---
-
+![Banner Image](https://tyoudoii-illust.com/wp-content/uploads/2024/07/oksign_businesswoman_color-282x300.png)　　　　　　　　　　　　　　![Banner Image](https://tyoudoii-illust.com/wp-content/uploads/2024/07/oksign_businesswoman_color-282x300.png)
 ## **セットアップ手順**
 
 以下のコマンドを使用して、プロジェクトをセットアップします。

@@ -13,12 +13,16 @@ Welcome to the **図書館DX**!
 	**ワークスペース/src/object_package/object_package/object_detection_node.py**
 	となるようにsrcでgit cloneしてください
 
+ー「pic.pyについて」
+	pic.pyはobject_detection_node.pyの確認用のプログラムです。
+ 	pic.pyは接続されたカメラ映像をトピックとして配信するプログラムです。
 
 
-To get started with the project, simply follow these instructions:
+
 
 ```bash
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
-npm install
-npm start
+cd src
+git clone https://github.com/DAIGO0430/karikou-ITkougakuka-DX.git
+colcon build
+cd ..
+source /install/setup.bash

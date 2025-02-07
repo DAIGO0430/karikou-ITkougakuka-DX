@@ -1,6 +1,6 @@
 # 🌈 **図書館DX** 🌈
 
-![Banner Image](https://example.com/banner-image.jpg)  <!-- ここにバナー画像URLを追加 -->
+![Banner Image](https://f.yourl.jp/b126cd1e/)  <!-- ここにバナー画像URLを追加 -->
 
 ## 🌟 **Overview** 🌟
 

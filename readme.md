@@ -68,9 +68,9 @@ daemon.jsonについて
 https://docs.docker.jp/config/daemon/daemon.html<br>
 https://docs.docker.com/engine/daemon/
 
-##参考サイト
-https://note.com/m_shirae/n/n7e38cb8c10b7　←大本のサイト仮想環境上で物体検出を行っている
-https://qiita.com/Yarimizu14/items/52f4859027165a805630　←dockerのマウントの際に参考にしたサイト
+##参考サイト<br>
+""https://note.com/m_shirae/n/n7e38cb8c10b7""　""**←大本のサイト仮想環境上で物体検出を行っている**""<br>
+https://qiita.com/Yarimizu14/items/52f4859027165a805630　""**←dockerのマウントの際に参考にしたサイト**""
 
 
 ---

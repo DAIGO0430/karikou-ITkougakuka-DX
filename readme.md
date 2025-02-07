@@ -1,6 +1,6 @@
 # 🌈 **図書館DX** 🌈
 
-![Banner Image](![Banner Image][(https://f.yourl.jp/b126cd1e/](https://tyoudoii-illust.com/wp-content/uploads/2024/07/oksign_businessman_mono.png))  <!-- ここにバナー画像URLを追加 -->)  <!-- ここにバナー画像URLを追加 -->
+![Banner Image](https://tyoudoii-illust.com/wp-content/uploads/2024/07/oksign_businessman_mono.png)
 
 ## 🌟 **Overview** 🌟
 

@@ -64,8 +64,8 @@ dokcerfileのビルドはsrcに配置してから行ってください
 dokcer build -it <image_id> .
 ```
 daemon.jsonについて
-以下のサイトを参考にしてください
-https://docs.docker.jp/config/daemon/daemon.html
+以下のサイトを参考にしてください<br>
+https://docs.docker.jp/config/daemon/daemon.html<br>
 https://docs.docker.com/engine/daemon/
 
 ##参考サイト

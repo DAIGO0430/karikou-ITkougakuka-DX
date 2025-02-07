@@ -57,6 +57,14 @@
 - `pic.py` は `object_detection_node.py` の確認用のプログラムです。  
   `pic.py` は接続されたカメラ映像をトピックとして配信するプログラムです。
 
+##dokcerfileについて
+下のサイトで配布されているdokcerfileは情報が欠損している箇所があるのでこのgithubのものを使用してください。
+
+##参考サイト
+https://note.com/m_shirae/n/n7e38cb8c10b7　←大本のサイト仮想環境上で物体検出を行っている
+https://qiita.com/Yarimizu14/items/52f4859027165a805630　←dockerのマウントの際に参考にしたサイト
+
+
 ---
 
 ## **セットアップ手順**

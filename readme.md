@@ -1,6 +1,6 @@
 # 🌈 **図書館DX** 🌈
 
-![Banner Image](https://tyoudoii-illust.com/wp-content/uploads/2024/07/oksign_businessman_mono.png)
+![Banner Image]([https://tyoudoii-illust.com/wp-content/uploads/2024/07/oksign_businessman_color-300x282.png)
 
 ## 🌟 **Overview** 🌟
 

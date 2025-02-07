@@ -58,19 +58,21 @@
 
 ##dokcerfileについて
 下のサイトで配布されているdokcerfileは情報が欠損している箇所があるのでこのgithubのものを使用してください。
-dokcerfileのビルドはsrcに配置してから行ってください
+dokcerfileのビルドはsrcに配置してから行ってください<br>
 ビルドコマンド
 ```bash
 dokcer build -it <image_id> .
 ```
-daemon.jsonについて
+<br>
+daemon.jsonについて<br>
 以下のサイトを参考にしてください<br>
 https://docs.docker.jp/config/daemon/daemon.html<br>
 https://docs.docker.com/engine/daemon/<br>
 
-ocr4.pyについて
+ocr4.pyについて<br>
 カメラからの映像を取得してリアルタイムocrを実行します　easyocrを使用しています<br>
-easy ocrの導入方法はteams内の手順書に記入されています
+easy ocrの導入方法はteams内の手順書に記入されています<br>
+<br>
 ##参考サイト<br>
 <a href="https://note.com/m_shirae/n/n7e38cb8c10b7">https://note.com/m_shirae/n/n7e38cb8c10b7</a>　**←大本のサイト仮想環境上で物体検出を行っている**<br>
 <a href="https://qiita.com/Yarimizu14/items/52f4859027165a805630">https://qiita.com/Yarimizu14/items/52f4859027165a805630</a>　**←dockerのマウントの際に参考にしたサイト**

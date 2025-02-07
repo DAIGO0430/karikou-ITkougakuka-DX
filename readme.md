@@ -61,12 +61,12 @@
 dokcerfileのビルドはsrcに配置してから行ってください
 ビルドコマンド
 ```bash
-
+dokcer build -it <image_id> .
 ```
 daemon.jsonについて
 以下のサイトを参考にしてください
-ーhttps://docs.docker.jp/config/daemon/daemon.html
-ーhttps://docs.docker.com/engine/daemon/
+https://docs.docker.jp/config/daemon/daemon.html
+https://docs.docker.com/engine/daemon/
 
 ##参考サイト
 https://note.com/m_shirae/n/n7e38cb8c10b7　←大本のサイト仮想環境上で物体検出を行っている

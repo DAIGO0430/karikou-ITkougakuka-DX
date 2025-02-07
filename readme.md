@@ -68,7 +68,7 @@ daemon.jsonについて<br>
 以下のサイトを参考にしてください<br>
 https://docs.docker.jp/config/daemon/daemon.html<br>
 https://docs.docker.com/engine/daemon/<br>
-
+<br>
 ocr4.pyについて<br>
 カメラからの映像を取得してリアルタイムocrを実行します　easyocrを使用しています<br>
 easy ocrの導入方法はteams内の手順書に記入されています<br>
